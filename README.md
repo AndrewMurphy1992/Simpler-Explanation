@@ -2,7 +2,9 @@
 
 WARNING: I AM NOT RESPONSIBLE FOR YOUR LOST DATA, OR MISUSE OF AI. KEEP BACKUPS OF ANY FILES YOU USE THIS '3/4-MIRROR-CIPHER' ON. THIS IS A PRE-BETA PROGRAM AND ANY DATA YOU CODE THIS WAY IS VERY LIKELY TO BE CORRUPTED AND LOST FOREVER, OPTIMIZATIONS HAVE NOT BEEN MADE, AND IT IS NOT YET A DEPENDABLE PRODUCT. YOU HAVE BEEN WARNED.
 
-You can think of this like a crossword puzzle or the TV game show 'Wheel of Fortune.' AI can play these games even better than people can.
+
+(You can think of these like a crossword puzzle or the TV game show 'Wheel of Fortune.' AI can play these games even better than people can.)
+
 
 Here's how the 'pre-compression' process works. You can do this on a piece of paper:
 
