@@ -12,7 +12,7 @@ Here's how the 'pre-compression' process works. You can do this on a piece of pa
 2) Second, take the least common character on the page.
 3) Third, erase that character and replace it with the MOST common character, everywhere it appears.
 4) Repeat step (3) with the second least common character, and the second most common character.
-5) Repeat step (3) with the third most common character, and the thrid most common character.
+5) Repeat step (3) with the third most common character, and the third most common character.
 6) And so on until you've reduced the list by half.
 
 7) Now, you should have a paper that looks like it's scrambled in a slightly hard to read way.
