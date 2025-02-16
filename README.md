@@ -27,5 +27,4 @@ Here's another way you can do it:
 
 5) After you have confirmed step (8) above and step (4) below, take the altered txt document and compress it with any program that compresses. Literally     any of them. You will find in the properties of the compressed file that the modified text takes up less space than the unmodified when *it* is           compressed.
 
-My 'Encoder 4' script will produce txt files using the technique in the first list, you just have to change two or three lines.
 
